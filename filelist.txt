@@ -1,9 +1,0 @@
-account-skills
-filelist.txt
-local-projects
-projects
-state.json
-state.json.auth-secrets.json
-state.json.orchestrator-lock.sqlite
-state.json.session-ends.json
-state.json.session-refunds.json
