@@ -1,8 +1,8 @@
-# MindMap AI
+# Cognexa
 
-> **Turn textbook pages into visual understanding.**
+> **Understand the connections.**
 
-MindMap AI is a full-stack HackFest 2.0 app that turns a photo of a textbook page into
+Cognexa is a full-stack HackFest 2.0 app that turns a photo of a textbook page into
 visual revision material: an **interactive mind map**, a **concise summary** with key terms,
 and a **revision quiz** with instant scoring and explanations.
 
@@ -58,7 +58,7 @@ model and no silent switching.
 ## Architecture
 
 ```
-mindmap-ai/
+cognexa/
 ├── backend/
 │   ├── app/
 │   │   ├── main.py              # FastAPI app, CORS, error handlers, lifespan
@@ -193,7 +193,7 @@ All errors share one shape:
 ```json
 {
   "status": "ok",
-  "service": "mindmap-ai-backend",
+  "service": "cognexa-backend",
   "demo_mode": false,
   "ai_provider": "gemma4",
   "ai_configured": true,
