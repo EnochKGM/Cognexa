@@ -1,0 +1,72 @@
+{
+  "installId": "2f838f15-384d-4e9f-8164-12e78505cd2a",
+  "analyticsId": "anon_400b3557-ee96-4ab8-aaad-96f91fa81573",
+  "uiPrefs": {
+    "railExperiment": {
+      "arm": "control",
+      "assignedAt": "2026-10-23T15:17:33.220Z"
+    },
+    "projectSetupCompleted": true,
+    "hoursIntroSeenVersion": 1,
+    "terminalLayouts": {
+      "fa031656-b61a-474b-a10a-afe9ebdde0c0": {
+        "sessions": {},
+        "right": [],
+        "activeRightId": null,
+        "bottom": null,
+        "activeBottomGroupId": null
+      }
+    },
+    "openExplorerTabs": {
+      "fa031656-b61a-474b-a10a-afe9ebdde0c0": [
+        "browser:949ac9c6-1859-4704-97e0-662ce9ceee74",
+        "directory::242e76dc-2aa7-4bb2-8969-f6b94c2e5d20"
+      ]
+    },
+    "explorerTabs": {
+      "fa031656-b61a-474b-a10a-afe9ebdde0c0": "directory::242e76dc-2aa7-4bb2-8969-f6b94c2e5d20"
+    },
+    "prompted": true,
+    "hostedModelPick": {
+      "model": "m-096e75164d"
+    },
+    "explorerWidth": 664,
+    "explorerCollapsed": false
+  },
+  "machineId": "b5e56b50-8328-48b0-8914-8083328f8c9a",
+  "projects": {
+    "/Users/enoch/.config/freebuff-desktop/local-projects/64a093af-e6b0-4523-ba11-67152235ef35": {
+      "id": "64a093af-e6b0-4523-ba11-67152235ef35",
+      "name": "Untitled",
+      "location": "local",
+      "sources": []
+    }
+  },
+  "recentProjects": [
+    "/Users/enoch/.config/freebuff-desktop/local-projects/64a093af-e6b0-4523-ba11-67152235ef35"
+  ],
+  "workspace": {
+    "tabs": [
+      {
+        "id": "fa031656-b61a-474b-a10a-afe9ebdde0c0",
+        "projectPath": "/Users/enoch/.config/freebuff-desktop/local-projects/64a093af-e6b0-4523-ba11-67152235ef35",
+        "spaceId": "spc-nnm4jb66"
+      }
+    ],
+    "activeId": "fa031656-b61a-474b-a10a-afe9ebdde0c0",
+    "windows": [],
+    "spaces": [
+      {
+        "id": "spc-nnm4jb66",
+        "projectPath": "/Users/enoch/.config/freebuff-desktop/local-projects/64a093af-e6b0-4523-ba11-67152235ef35",
+        "activeId": "fa031656-b61a-474b-a10a-afe9ebdde0c0",
+        "name": "Untitled"
+      }
+    ],
+    "activeSpaceId": "spc-nnm4jb66"
+  },
+  "composerDrafts": {},
+  "fileEdits": {},
+  "terminalContexts": {},
+  "diffComments": {}
+}
