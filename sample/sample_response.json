@@ -1,0 +1,520 @@
+{
+  "result_id": "a2fc152d411646b88021eab84f5f38cf",
+  "is_demo": false,
+  "generator": "gemma4",
+  "main_topic": {
+    "id": "photosynthesis-topic",
+    "label": "Photosynthesis"
+  },
+  "subtopics": [
+    {
+      "id": "photosynthesis-sub-0",
+      "label": "Cellular Basics"
+    },
+    {
+      "id": "photosynthesis-sub-1",
+      "label": "Light Reactions"
+    },
+    {
+      "id": "photosynthesis-sub-2",
+      "label": "Calvin Cycle"
+    },
+    {
+      "id": "photosynthesis-sub-3",
+      "label": "Environmental Influence"
+    },
+    {
+      "id": "photosynthesis-sub-4",
+      "label": "Chemical Equation"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "photosynthesis-topic",
+      "label": "Photosynthesis",
+      "node_type": "topic",
+      "parent": null,
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "id": "photosynthesis-sub-0",
+      "label": "Cellular Basics",
+      "node_type": "subtopic",
+      "parent": "photosynthesis-topic",
+      "position": {
+        "x": 0.0,
+        "y": -340.0
+      }
+    },
+    {
+      "id": "photosynthesis-sub-0-c-0",
+      "label": "Chloroplasts",
+      "node_type": "concept",
+      "parent": "photosynthesis-sub-0",
+      "position": {
+        "x": -176.0,
+        "y": -656.8
+      }
+    },
+    {
+      "id": "photosynthesis-sub-0-c-1",
+      "label": "Light energy conversion",
+      "node_type": "concept",
+      "parent": "photosynthesis-sub-0",
+      "position": {
+        "x": 0.0,
+        "y": -680.0
+      }
+    },
+    {
+      "id": "photosynthesis-sub-0-c-2",
+      "label": "Chlorophyll absorption",
+      "node_type": "concept",
+      "parent": "photosynthesis-sub-0",
+      "position": {
+        "x": 176.0,
+        "y": -656.8
+      }
+    },
+    {
+      "id": "photosynthesis-sub-1",
+      "label": "Light Reactions",
+      "node_type": "subtopic",
+      "parent": "photosynthesis-topic",
+      "position": {
+        "x": 323.4,
+        "y": -105.1
+      }
+    },
+    {
+      "id": "photosynthesis-sub-1-c-0",
+      "label": "Photolysis",
+      "node_type": "concept",
+      "parent": "photosynthesis-sub-1",
+      "position": {
+        "x": 570.3,
+        "y": -370.4
+      }
+    },
+    {
+      "id": "photosynthesis-sub-1-c-1",
+      "label": "Oxygen release",
+      "node_type": "concept",
+      "parent": "photosynthesis-sub-1",
+      "position": {
+        "x": 646.7,
+        "y": -210.1
+      }
+    },
+    {
+      "id": "photosynthesis-sub-1-c-2",
+      "label": "ATP and NADPH production",
+      "node_type": "concept",
+      "parent": "photosynthesis-sub-1",
+      "position": {
+        "x": 679.1,
+        "y": -35.6
+      }
+    },
+    {
+      "id": "photosynthesis-sub-2",
+      "label": "Calvin Cycle",
+      "node_type": "subtopic",
+      "parent": "photosynthesis-topic",
+      "position": {
+        "x": 199.8,
+        "y": 275.1
+      }
+    },
+    {
+      "id": "photosynthesis-sub-2-c-0",
+      "label": "RuBisCO",
+      "node_type": "concept",
+      "parent": "photosynthesis-sub-2",
+      "position": {
+        "x": 528.5,
+        "y": 427.9
+      }
+    },
+    {
+      "id": "photosynthesis-sub-2-c-1",
+      "label": "Carbon dioxide fixation",
+      "node_type": "concept",
+      "parent": "photosynthesis-sub-2",
+      "position": {
+        "x": 446.1,
+        "y": 513.2
+      }
+    },
+    {
+      "id": "photosynthesis-sub-2-c-2",
+      "label": "G3P synthesis",
+      "node_type": "concept",
+      "parent": "photosynthesis-sub-2",
+      "position": {
+        "x": 350.2,
+        "y": 582.9
+      }
+    },
+    {
+      "id": "photosynthesis-sub-2-c-3",
+      "label": "Glucose production",
+      "node_type": "concept",
+      "parent": "photosynthesis-sub-2",
+      "position": {
+        "x": 243.7,
+        "y": 634.8
+      }
+    },
+    {
+      "id": "photosynthesis-sub-3",
+      "label": "Environmental Influence",
+      "node_type": "subtopic",
+      "parent": "photosynthesis-topic",
+      "position": {
+        "x": -199.8,
+        "y": 275.1
+      }
+    },
+    {
+      "id": "photosynthesis-sub-3-c-0",
+      "label": "Light intensity",
+      "node_type": "concept",
+      "parent": "photosynthesis-sub-3",
+      "position": {
+        "x": -243.7,
+        "y": 634.8
+      }
+    },
+    {
+      "id": "photosynthesis-sub-3-c-1",
+      "label": "CO2 concentration",
+      "node_type": "concept",
+      "parent": "photosynthesis-sub-3",
+      "position": {
+        "x": -399.7,
+        "y": 550.1
+      }
+    },
+    {
+      "id": "photosynthesis-sub-3-c-2",
+      "label": "Temperature",
+      "node_type": "concept",
+      "parent": "photosynthesis-sub-3",
+      "position": {
+        "x": -528.5,
+        "y": 427.9
+      }
+    },
+    {
+      "id": "photosynthesis-sub-4",
+      "label": "Chemical Equation",
+      "node_type": "subtopic",
+      "parent": "photosynthesis-topic",
+      "position": {
+        "x": -323.4,
+        "y": -105.1
+      }
+    },
+    {
+      "id": "photosynthesis-sub-4-c-0",
+      "label": "Reactants (CO2, H2O)",
+      "node_type": "concept",
+      "parent": "photosynthesis-sub-4",
+      "position": {
+        "x": -679.1,
+        "y": -35.6
+      }
+    },
+    {
+      "id": "photosynthesis-sub-4-c-1",
+      "label": "Products (Glucose, O2)",
+      "node_type": "concept",
+      "parent": "photosynthesis-sub-4",
+      "position": {
+        "x": -646.7,
+        "y": -210.1
+      }
+    },
+    {
+      "id": "photosynthesis-sub-4-c-2",
+      "label": "Energy source (Light)",
+      "node_type": "concept",
+      "parent": "photosynthesis-sub-4",
+      "position": {
+        "x": -570.3,
+        "y": -370.4
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-photosynthesis-topic-photosynthesis-sub-0",
+      "source": "photosynthesis-topic",
+      "target": "photosynthesis-sub-0",
+      "label": "includes"
+    },
+    {
+      "id": "e-photosynthesis-sub-0-photosynthesis-sub-0-c-0",
+      "source": "photosynthesis-sub-0",
+      "target": "photosynthesis-sub-0-c-0",
+      "label": null
+    },
+    {
+      "id": "e-photosynthesis-sub-0-photosynthesis-sub-0-c-1",
+      "source": "photosynthesis-sub-0",
+      "target": "photosynthesis-sub-0-c-1",
+      "label": null
+    },
+    {
+      "id": "e-photosynthesis-sub-0-photosynthesis-sub-0-c-2",
+      "source": "photosynthesis-sub-0",
+      "target": "photosynthesis-sub-0-c-2",
+      "label": null
+    },
+    {
+      "id": "e-photosynthesis-topic-photosynthesis-sub-1",
+      "source": "photosynthesis-topic",
+      "target": "photosynthesis-sub-1",
+      "label": "includes"
+    },
+    {
+      "id": "e-photosynthesis-sub-1-photosynthesis-sub-1-c-0",
+      "source": "photosynthesis-sub-1",
+      "target": "photosynthesis-sub-1-c-0",
+      "label": null
+    },
+    {
+      "id": "e-photosynthesis-sub-1-photosynthesis-sub-1-c-1",
+      "source": "photosynthesis-sub-1",
+      "target": "photosynthesis-sub-1-c-1",
+      "label": null
+    },
+    {
+      "id": "e-photosynthesis-sub-1-photosynthesis-sub-1-c-2",
+      "source": "photosynthesis-sub-1",
+      "target": "photosynthesis-sub-1-c-2",
+      "label": null
+    },
+    {
+      "id": "e-photosynthesis-topic-photosynthesis-sub-2",
+      "source": "photosynthesis-topic",
+      "target": "photosynthesis-sub-2",
+      "label": "includes"
+    },
+    {
+      "id": "e-photosynthesis-sub-2-photosynthesis-sub-2-c-0",
+      "source": "photosynthesis-sub-2",
+      "target": "photosynthesis-sub-2-c-0",
+      "label": null
+    },
+    {
+      "id": "e-photosynthesis-sub-2-photosynthesis-sub-2-c-1",
+      "source": "photosynthesis-sub-2",
+      "target": "photosynthesis-sub-2-c-1",
+      "label": null
+    },
+    {
+      "id": "e-photosynthesis-sub-2-photosynthesis-sub-2-c-2",
+      "source": "photosynthesis-sub-2",
+      "target": "photosynthesis-sub-2-c-2",
+      "label": null
+    },
+    {
+      "id": "e-photosynthesis-sub-2-photosynthesis-sub-2-c-3",
+      "source": "photosynthesis-sub-2",
+      "target": "photosynthesis-sub-2-c-3",
+      "label": null
+    },
+    {
+      "id": "e-photosynthesis-topic-photosynthesis-sub-3",
+      "source": "photosynthesis-topic",
+      "target": "photosynthesis-sub-3",
+      "label": "includes"
+    },
+    {
+      "id": "e-photosynthesis-sub-3-photosynthesis-sub-3-c-0",
+      "source": "photosynthesis-sub-3",
+      "target": "photosynthesis-sub-3-c-0",
+      "label": null
+    },
+    {
+      "id": "e-photosynthesis-sub-3-photosynthesis-sub-3-c-1",
+      "source": "photosynthesis-sub-3",
+      "target": "photosynthesis-sub-3-c-1",
+      "label": null
+    },
+    {
+      "id": "e-photosynthesis-sub-3-photosynthesis-sub-3-c-2",
+      "source": "photosynthesis-sub-3",
+      "target": "photosynthesis-sub-3-c-2",
+      "label": null
+    },
+    {
+      "id": "e-photosynthesis-topic-photosynthesis-sub-4",
+      "source": "photosynthesis-topic",
+      "target": "photosynthesis-sub-4",
+      "label": "includes"
+    },
+    {
+      "id": "e-photosynthesis-sub-4-photosynthesis-sub-4-c-0",
+      "source": "photosynthesis-sub-4",
+      "target": "photosynthesis-sub-4-c-0",
+      "label": null
+    },
+    {
+      "id": "e-photosynthesis-sub-4-photosynthesis-sub-4-c-1",
+      "source": "photosynthesis-sub-4",
+      "target": "photosynthesis-sub-4-c-1",
+      "label": null
+    },
+    {
+      "id": "e-photosynthesis-sub-4-photosynthesis-sub-4-c-2",
+      "source": "photosynthesis-sub-4",
+      "target": "photosynthesis-sub-4-c-2",
+      "label": null
+    }
+  ],
+  "summary": {
+    "overview": "Photosynthesis is the process occurring in the chloroplasts of plant cells that converts light energy into chemical energy. It involves the absorption of specific light wavelengths and proceeds through distinct stages to produce glucose and oxygen.",
+    "sections": [
+      {
+        "title": "General Process",
+        "content": "Photosynthesis converts light energy into chemical energy within the chloroplasts of plant cells. Chlorophyll is used to absorb red and blue wavelengths of light."
+      },
+      {
+        "title": "Light Reactions",
+        "content": "During the light reactions, water is split through a process called photolysis, which releases oxygen. This stage also produces ATP and NADPH for use in the next stage."
+      },
+      {
+        "title": "The Calvin Cycle",
+        "content": "The Calvin Cycle uses RuBisCO to fix carbon dioxide into G3P. This G3P is then used to build glucose."
+      },
+      {
+        "title": "Rate Factors",
+        "content": "The rate of photosynthesis is affected by three primary factors: light intensity, CO2 concentration, and temperature."
+      },
+      {
+        "title": "Overall Equation",
+        "content": "The chemical equation for the process is 6CO2 + 6H2O + light -> C6H12O6 + 6O2."
+      }
+    ]
+  },
+  "key_terms": [
+    {
+      "term": "Photosynthesis",
+      "definition": "The process of converting light energy into chemical energy in plant cells."
+    },
+    {
+      "term": "Chloroplasts",
+      "definition": "The organelles in plant cells where photosynthesis occurs."
+    },
+    {
+      "term": "Chlorophyll",
+      "definition": "A pigment that absorbs red and blue wavelengths of light."
+    },
+    {
+      "term": "Photolysis",
+      "definition": "The splitting of water to release oxygen during light reactions."
+    },
+    {
+      "term": "ATP",
+      "definition": "An energy molecule produced during the light reactions for use in the next stage."
+    },
+    {
+      "term": "NADPH",
+      "definition": "An energy molecule produced during the light reactions for use in the next stage."
+    },
+    {
+      "term": "RuBisCO",
+      "definition": "An enzyme that fixes carbon dioxide into G3P during the Calvin Cycle."
+    },
+    {
+      "term": "G3P",
+      "definition": "A molecule formed from carbon dioxide fixation that is used to build glucose."
+    },
+    {
+      "term": "Glucose",
+      "definition": "The sugar (C6H12O6) produced as the end result of the Calvin Cycle."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "question": "In which part of the plant cell does photosynthesis occur?",
+      "type": "multiple_choice",
+      "options": [
+        "Mitochondria",
+        "Chloroplasts",
+        "Nucleus",
+        "Vacuole"
+      ],
+      "correct_answer": "Chloroplasts",
+      "explanation": "The text explicitly states that photosynthesis occurs in the chloroplasts of plant cells."
+    },
+    {
+      "id": "q2",
+      "question": "Which wavelengths of light are absorbed by chlorophyll?",
+      "type": "multiple_choice",
+      "options": [
+        "Green and Yellow",
+        "Only Green",
+        "Red and Blue",
+        "Infrared and Ultraviolet"
+      ],
+      "correct_answer": "Red and Blue",
+      "explanation": "The page states that chlorophyll absorbs red and blue wavelengths of light."
+    },
+    {
+      "id": "q3",
+      "question": "What is the result of photolysis during the light reactions?",
+      "type": "multiple_choice",
+      "options": [
+        "Fixation of CO2",
+        "Splitting of water and release of oxygen",
+        "Production of glucose",
+        "Absorption of red light"
+      ],
+      "correct_answer": "Splitting of water and release of oxygen",
+      "explanation": "The text defines photolysis as the process where water is split, releasing oxygen."
+    },
+    {
+      "id": "q4",
+      "question": "What is the role of RuBisCO in the Calvin Cycle?",
+      "type": "multiple_choice",
+      "options": [
+        "Absorbing light energy",
+        "Splitting water molecules",
+        "Fixing carbon dioxide into G3P",
+        "Producing ATP"
+      ],
+      "correct_answer": "Fixing carbon dioxide into G3P",
+      "explanation": "According to the text, RuBisCO fixes carbon dioxide into G3P."
+    },
+    {
+      "id": "q5",
+      "question": "Which of the following is NOT listed as a factor affecting the rate of photosynthesis?",
+      "type": "multiple_choice",
+      "options": [
+        "Light intensity",
+        "Temperature",
+        "CO2 concentration",
+        "Soil pH"
+      ],
+      "correct_answer": "Soil pH",
+      "explanation": "The factors listed are light intensity, CO2 concentration, and temperature; soil pH is not mentioned."
+    }
+  ],
+  "source_image": {
+    "upload_id": "5defffce35464882af830b9be076ced6",
+    "filename": "photosynthesis-ch4.png",
+    "content_type": "image/png",
+    "size_bytes": 29826,
+    "width": 1000,
+    "height": 1300,
+    "url": "/api/uploads/5defffce35464882af830b9be076ced6"
+  }
+}
